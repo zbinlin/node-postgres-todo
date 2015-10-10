@@ -2,7 +2,7 @@
 
 Check out the blog post >> http://mherman.org/blog/2015/02/12/postgresql-and-nodejs
 
-This is a basic single page application built with Node, Express, Angular, and PostgreSQL.
+This is a basic single page application built with Node, Koa, Angular, and PostgreSQL.
 
 ## Quick Start
 
